@@ -1,0 +1,1366 @@
+[
+{
+  "text": "This Master Services Agreement (\"Agreement\") is entered into on 14 March 2024 by and between Aurora Technologies FZ-LLC, a company incorporated under the laws of the Dubai International Financial Centre (\"DIFC\"), and Nile Legal Translation LLC, registered in the Arab Republic of Egypt under Commercial Registry No. 118742. The Agreement shall be governed by the laws of the DIFC, and any dispute shall be referred to the DIFC Courts pursuant to Article 5(A) of Dubai Law No. 12 of 2004.",
+  "id": 216,
+  "label": [
+    {
+      "start": 64,
+      "end": 77,
+      "text": "14 March 2024",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 93,
+      "end": 119,
+      "text": "Aurora Technologies FZ-LLC",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 217,
+      "end": 243,
+      "text": "Nile Legal Translation LLC",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 371,
+      "end": 379,
+      "text": "the DIFC",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 422,
+      "end": 433,
+      "text": "DIFC Courts",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 446,
+      "end": 486,
+      "text": "Article 5(A) of Dubai Law No. 12 of 2004",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 162,
+      "end": 212,
+      "text": "the Dubai International Financial Centre (\"DIFC\"),",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 259,
+      "end": 285,
+      "text": "the Arab Republic of Egypt",
+      "labels": [
+        "JURISDICTION"
+      ]
+    }
+  ],
+  "difficulty": "ambiguous_boundary",
+  "annotator_note": "1- DIFC - تكررت 3 مرات بدورين مختلفين: JURISDICTION في مرتين - مكان التأسيس والقانون الحاكم، و COURT في DIFC Courts\n2- Commercial Registry No. 118742 - ترك بدون تصنيف لانها رقم تسجيل اداري لا تطابق اي تصنيف",
+  "annotator": 1,
+  "annotation_id": 216,
+  "created_at": "2026-07-27T17:46:30.853790Z",
+  "updated_at": "2026-07-27T23:24:55.626964Z",
+  "lead_time": 5248.472
+},
+{
+  "text": "In Donoghue v Stevenson [1932] UKHL 100, the House of Lords established the modern doctrine of negligence. The claimant, Mrs May Donoghue, sought damages of £500 against the manufacturer. Lord Atkin delivered the leading judgment on 26 May 1932, articulating the 'neighbour principle' that remains binding authority across common-law jurisdictions.",
+  "id": 217,
+  "label": [
+    {
+      "start": 3,
+      "end": 39,
+      "text": "Donoghue v Stevenson [1932] UKHL 100",
+      "labels": [
+        "CASE"
+      ]
+    },
+    {
+      "start": 41,
+      "end": 59,
+      "text": "the House of Lords",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 95,
+      "end": 105,
+      "text": "negligence",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 121,
+      "end": 137,
+      "text": "Mrs May Donoghue",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 107,
+      "end": 119,
+      "text": "The claimant",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 157,
+      "end": 161,
+      "text": "£500",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 188,
+      "end": 199,
+      "text": "Lord Atkin ",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 233,
+      "end": 244,
+      "text": "26 May 1932",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 323,
+      "end": 347,
+      "text": "common-law jurisdictions",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 259,
+      "end": 283,
+      "text": "the 'neighbour principle",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    }
+  ],
+  "difficulty": "ambiguous_boundary",
+  "annotator_note": "1. common-law jurisdictions - صنفت كـ JURISDICTION رغم انها صيغة عامة لكنها تشير إلى فئة من الأنظمة الدولية، وهذا اقرب تصنيف\n2. the manufacturer و the leading judgment - تركا بدون تصنيف لانهما وصف عام، ولا ينطبق عليهما اي تصنيف\n3. The claimant و Mrs May Donoghue - تمت معاملتهما ككيانين من فئتين مختلفتين : ROLE ثم PERSON، لانهما يشيران لنفس الشخص من زاويتين مختلفتين",
+  "annotator": 1,
+  "annotation_id": 217,
+  "created_at": "2026-07-27T17:59:30.014686Z",
+  "updated_at": "2026-07-28T08:40:17.339405Z",
+  "lead_time": 1221.5520000000001
+},
+{
+  "text": "Pursuant to Article 6 of the General Data Protection Regulation (Regulation (EU) 2016\/679), the Data Controller, Meridian Health GmbH, may process Personal Data only where a lawful basis exists. The Berlin Regional Court fined the company EUR 1,200,000 on 3 February 2023 for transferring records to a Processor located in the United States without adequate safeguards under Chapter V.",
+  "id": 218,
+  "label": [
+    {
+      "start": 12,
+      "end": 90,
+      "text": "Article 6 of the General Data Protection Regulation (Regulation (EU) 2016\/679)",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 92,
+      "end": 111,
+      "text": "the Data Controller",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 113,
+      "end": 133,
+      "text": "Meridian Health GmbH",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 195,
+      "end": 220,
+      "text": "The Berlin Regional Court",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 239,
+      "end": 253,
+      "text": "EUR 1,200,000 ",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 256,
+      "end": 271,
+      "text": "3 February 2023",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 323,
+      "end": 340,
+      "text": "the United States",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 302,
+      "end": 311,
+      "text": "Processor",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 375,
+      "end": 384,
+      "text": "Chapter V",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    }
+  ],
+  "difficulty": "ambiguous_boundary",
+  "annotator_note": "1. Personal Data - تركت بدون تصنيف لانها مصطلح تنظيمي عام وليست مصطلح قانوني\n2. Chapter V - إحالة التشريعية لا تتصل مباشرة باسم اللائحة في نطاقها، وربطها يعتمد على  استنتاج ضمني من الجملة الاولى من الفقرة، ولذلك تصنيفها غير قاطع \n3. the United States - صنفت كـ JURISDICTION لأنها تشير إلى الإقليم القانوني المستقبل للبيانات بموجب الفصل الخامس من لائحة حماية البيانات\n4. the Data Controller و a Processor - تمت معاملتهما ككيانين منفصلين من فئة ROLE، وهما صفتان قانونيتان محددتان صراحة في نظام حماية البيانات المذكور اول الفقرة",
+  "annotator": 1,
+  "annotation_id": 218,
+  "created_at": "2026-07-27T18:54:01.738549Z",
+  "updated_at": "2026-07-27T23:37:18.850492Z",
+  "lead_time": 3819.4980000000005
+},
+{
+  "text": "The Buyer shall pay the Seller a purchase price of USD 4,750,000, of which USD 475,000 shall be deposited into an escrow account held by First Gulf Bank PJSC within ten (10) Business Days of the Closing Date, being 30 September 2025. Interest accrues at 3.5% per annum in accordance with Schedule 2.",
+  "id": 219,
+  "label": [
+    {
+      "start": 0,
+      "end": 9,
+      "text": "The Buyer",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "text": "the Seller",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 51,
+      "end": 64,
+      "text": "USD 4,750,000",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 75,
+      "end": 86,
+      "text": "USD 475,000",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 137,
+      "end": 157,
+      "text": "First Gulf Bank PJSC",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 165,
+      "end": 187,
+      "text": "ten (10) Business Days",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 215,
+      "end": 232,
+      "text": "30 September 2025",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 114,
+      "end": 128,
+      "text": "escrow account",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 219,
+  "created_at": "2026-07-27T19:09:32.734173Z",
+  "updated_at": "2026-07-27T19:23:19.600219Z",
+  "lead_time": 1102.556
+},
+{
+  "text": "Under Section 138 of the Negotiable Instruments Act, 1881, the dishonour of a cheque constitutes a criminal offence in India. The Supreme Court of India, in Dashrath Rupsingh Rathod v State of Maharashtra (2014), clarified the territorial jurisdiction for such complaints, holding that the case must be filed where the drawee bank is situated.",
+  "id": 220,
+  "label": [
+    {
+      "start": 6,
+      "end": 57,
+      "text": "Section 138 of the Negotiable Instruments Act, 1881",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 59,
+      "end": 84,
+      "text": "the dishonour of a cheque",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 119,
+      "end": 124,
+      "text": "India",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 126,
+      "end": 152,
+      "text": "The Supreme Court of India",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 157,
+      "end": 211,
+      "text": "Dashrath Rupsingh Rathod v State of Maharashtra (2014)",
+      "labels": [
+        "CASE"
+      ]
+    },
+    {
+      "start": 223,
+      "end": 251,
+      "text": "the territorial jurisdiction",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    }
+  ],
+  "difficulty": "nested_entity",
+  "annotator_note": "1. State of Maharashtra - كيان من نمط JURISDICTION مضمن داخل نطاق CASE ولم يصنف ككيان منفصل، التزاما بقاعدة اقصى نطاق متصل للاستشهاد القضائي\n2. the territorial jurisdiction - صنفت LEGAL_TERM لا JURISDICTION، لانها مبدا اجرائي لتحديد المحكمة المختصة، لا مكان جغرافي كما يشترط تعريف الفئة",
+  "annotator": 1,
+  "annotation_id": 220,
+  "created_at": "2026-07-27T19:28:25.529692Z",
+  "updated_at": "2026-07-27T23:42:02.559933Z",
+  "lead_time": 507.372
+},
+{
+  "text": "Employee acknowledges that during the Probation Period of ninety (90) days commencing on 1 April 2025, the Company, TechBridge Solutions Ltd., may terminate this contract with seven days' notice. Thereafter, a Non-Compete Clause shall apply for twelve months within the Emirate of Abu Dhabi, subject to Federal Decree-Law No. 33 of 2021.",
+  "id": 221,
+  "label": [
+    {
+      "start": 0,
+      "end": 8,
+      "text": "Employee",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 34,
+      "end": 54,
+      "text": "the Probation Period",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 58,
+      "end": 74,
+      "text": "ninety (90) days",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 89,
+      "end": 101,
+      "text": "1 April 2025",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 103,
+      "end": 114,
+      "text": "the Company",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 116,
+      "end": 140,
+      "text": "TechBridge Solutions Ltd",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 176,
+      "end": 186,
+      "text": "seven days",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 245,
+      "end": 258,
+      "text": "twelve months",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 208,
+      "end": 228,
+      "text": "a Non-Compete Clause",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 266,
+      "end": 290,
+      "text": "the Emirate of Abu Dhabi",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 303,
+      "end": 336,
+      "text": "Federal Decree-Law No. 33 of 2021",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 221,
+  "created_at": "2026-07-27T19:37:17.262678Z",
+  "updated_at": "2026-07-27T19:37:17.262678Z",
+  "lead_time": 478.056
+},
+{
+  "text": "The arbitral tribunal, seated in Paris under the Rules of the International Chamber of Commerce (ICC), rendered its final award on 11 November 2023. The tribunal ordered Respondent, Sahara Petroleum Corporation, to pay Claimant EUR 8,300,000 plus costs of EUR 240,000. The award is enforceable under the New York Convention of 1958.",
+  "id": 222,
+  "label": [
+    {
+      "start": 0,
+      "end": 21,
+      "text": "The arbitral tribunal",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 33,
+      "end": 38,
+      "text": "Paris",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 58,
+      "end": 101,
+      "text": "the International Chamber of Commerce (ICC)",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 170,
+      "end": 180,
+      "text": "Respondent",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 131,
+      "end": 147,
+      "text": "11 November 2023",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 228,
+      "end": 241,
+      "text": "EUR 8,300,000",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 256,
+      "end": 267,
+      "text": "EUR 240,000",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 182,
+      "end": 210,
+      "text": "Sahara Petroleum Corporation",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 219,
+      "end": 227,
+      "text": "Claimant",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 300,
+      "end": 331,
+      "text": "the New York Convention of 1958",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 222,
+  "created_at": "2026-07-27T19:42:51.167912Z",
+  "updated_at": "2026-07-27T19:42:51.167912Z",
+  "lead_time": 326.12
+},
+{
+  "text": "WHEREAS the Licensor, Cedar Interactive Inc., a Delaware corporation with its principal place of business at 500 Market Street, San Francisco, grants the Licensee a non-exclusive licence to the software 'LinguaCore v3.2'; and WHEREAS royalties of 12% of Net Revenue are payable quarterly beginning Q1 2026.",
+  "id": 223,
+  "label": [
+    {
+      "start": 8,
+      "end": 20,
+      "text": "the Licensor",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 22,
+      "end": 43,
+      "text": "Cedar Interactive Inc",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 48,
+      "end": 56,
+      "text": "Delaware",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 149,
+      "end": 162,
+      "text": " the Licensee",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 165,
+      "end": 186,
+      "text": "non-exclusive licence",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 298,
+      "end": 305,
+      "text": "Q1 2026",
+      "labels": [
+        "DATE"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 223,
+  "created_at": "2026-07-27T19:50:06.394545Z",
+  "updated_at": "2026-07-27T19:50:06.394545Z",
+  "lead_time": 433.176
+},
+{
+  "text": "The Grand Chamber of the European Court of Human Rights, in Application No. 40167\/22, held on 18 January 2024 that the respondent State had violated Article 8 of the Convention. The applicant, a Syrian national residing in Malmö, was awarded EUR 15,000 in non-pecuniary damages.",
+  "id": 224,
+  "label": [
+    {
+      "start": 0,
+      "end": 55,
+      "text": "The Grand Chamber of the European Court of Human Rights",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 60,
+      "end": 84,
+      "text": "Application No. 40167\/22",
+      "labels": [
+        "CASE"
+      ]
+    },
+    {
+      "start": 94,
+      "end": 109,
+      "text": "18 January 2024",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 115,
+      "end": 135,
+      "text": "the respondent State",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 149,
+      "end": 176,
+      "text": "Article 8 of the Convention",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 178,
+      "end": 191,
+      "text": "The applicant",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 223,
+      "end": 228,
+      "text": "Malmö",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 256,
+      "end": 277,
+      "text": "non-pecuniary damages",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 242,
+      "end": 252,
+      "text": "EUR 15,000",
+      "labels": [
+        "MONEY"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 224,
+  "created_at": "2026-07-27T19:56:42.002195Z",
+  "updated_at": "2026-07-27T19:56:42.002195Z",
+  "lead_time": 393.879
+},
+{
+  "text": "This Deed of Trust is executed between the Settlor, Mr. Khalid Al-Rashid, and the Trustee, Gulf Fiduciary Services (Cayman) Ltd. The trust corpus comprises 40,000 ordinary shares of Falcon Holdings PLC valued at GBP 2,100,000. The governing law is that of the Cayman Islands, and the perpetuity period shall not exceed 150 years.",
+  "id": 225,
+  "label": [
+    {
+      "start": 91,
+      "end": 127,
+      "text": "Gulf Fiduciary Services (Cayman) Ltd",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 39,
+      "end": 50,
+      "text": "the Settlor",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 52,
+      "end": 72,
+      "text": "Mr. Khalid Al-Rashid",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 78,
+      "end": 89,
+      "text": "the Trustee",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 129,
+      "end": 145,
+      "text": "The trust corpus",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 182,
+      "end": 201,
+      "text": "Falcon Holdings PLC",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 212,
+      "end": 225,
+      "text": "GBP 2,100,000",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 280,
+      "end": 301,
+      "text": "the perpetuity period",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 319,
+      "end": 328,
+      "text": "150 years",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 256,
+      "end": 274,
+      "text": "the Cayman Islands",
+      "labels": [
+        "JURISDICTION"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 225,
+  "created_at": "2026-07-27T20:02:49.029966Z",
+  "updated_at": "2026-07-27T20:02:49.029966Z",
+  "lead_time": 365.302
+},
+{
+  "text": "Notice is hereby given that the Extraordinary General Meeting of shareholders of Zenith Manufacturing S.A.E. will be held on 22 June 2025 at 10:00 AM at the Nile Ritz-Carlton, Cairo. Resolutions include the appointment of Deloitte as external auditor and an increase of authorised capital to EGP 250,000,000.",
+  "id": 226,
+  "label": [
+    {
+      "start": 81,
+      "end": 107,
+      "text": "Zenith Manufacturing S.A.E",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 125,
+      "end": 137,
+      "text": "22 June 2025",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 142,
+      "end": 149,
+      "text": "0:00 AM",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 153,
+      "end": 174,
+      "text": "the Nile Ritz-Carlton",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 234,
+      "end": 250,
+      "text": "external auditor",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 222,
+      "end": 230,
+      "text": "Deloitte",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 292,
+      "end": 307,
+      "text": "EGP 250,000,000",
+      "labels": [
+        "MONEY"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 226,
+  "created_at": "2026-07-27T20:21:31.371565Z",
+  "updated_at": "2026-07-27T20:21:31.371565Z",
+  "lead_time": 1082.07
+},
+{
+  "text": "The Tenant, Ms. Fatima Nasser, shall pay monthly rent of SAR 18,000 to the Landlord, Riyadh Estates Company, on the first day of each Gregorian month. Late payment beyond fifteen days incurs a penalty of 2% under Article 74 of the Saudi Civil Transactions Law issued by Royal Decree No. M\/191 dated 29 November 2023.",
+  "id": 227,
+  "label": [
+    {
+      "start": 0,
+      "end": 10,
+      "text": "The Tenant",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 12,
+      "end": 29,
+      "text": "Ms. Fatima Nasser",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 57,
+      "end": 67,
+      "text": "SAR 18,000",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 71,
+      "end": 83,
+      "text": "the Landlord",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 85,
+      "end": 107,
+      "text": "Riyadh Estates Company",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 112,
+      "end": 149,
+      "text": "the first day of each Gregorian month",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 171,
+      "end": 183,
+      "text": "fifteen days",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 213,
+      "end": 259,
+      "text": "Article 74 of the Saudi Civil Transactions Law",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 270,
+      "end": 292,
+      "text": "Royal Decree No. M\/191",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 299,
+      "end": 315,
+      "text": "29 November 2023",
+      "labels": [
+        "DATE"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 227,
+  "created_at": "2026-07-27T20:32:14.228939Z",
+  "updated_at": "2026-07-27T20:32:14.228939Z",
+  "lead_time": 641.229
+},
+{
+  "text": "By operation of the doctrine of ultra vires, the resolution passed by the Board of Directors of Orion Logistics Ltd. on 9 August 2022 was declared void by Justice Amelia Croft at the High Court of Justice, Chancery Division, in Case No. HC-2023-000412.",
+  "id": 228,
+  "label": [
+    {
+      "start": 32,
+      "end": 43,
+      "text": "ultra vires",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 96,
+      "end": 115,
+      "text": "Orion Logistics Ltd",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 120,
+      "end": 133,
+      "text": "9 August 2022",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 179,
+      "end": 204,
+      "text": "the High Court of Justice",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 155,
+      "end": 175,
+      "text": "Justice Amelia Croft",
+      "labels": [
+        "PERSON"
+      ]
+    },
+    {
+      "start": 228,
+      "end": 251,
+      "text": "Case No. HC-2023-000412",
+      "labels": [
+        "CASE"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 228,
+  "created_at": "2026-07-27T20:37:20.784653Z",
+  "updated_at": "2026-07-27T20:37:20.784653Z",
+  "lead_time": 304.33
+},
+{
+  "text": "The Confidential Information disclosed by Party A, Helios Renewables Ltd., to Party B under this Non-Disclosure Agreement dated 5 May 2024 shall remain confidential for a period of five (5) years. Breach entitles the disclosing party to seek injunctive relief before the courts of England and Wales.",
+  "id": 229,
+  "label": [
+    {
+      "start": 0,
+      "end": 28,
+      "text": "The Confidential Information",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 42,
+      "end": 49,
+      "text": "Party A",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 51,
+      "end": 72,
+      "text": "Helios Renewables Ltd",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 78,
+      "end": 85,
+      "text": "Party B",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 128,
+      "end": 138,
+      "text": "5 May 2024",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 181,
+      "end": 195,
+      "text": "five (5) years",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 213,
+      "end": 233,
+      "text": "the disclosing party",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 242,
+      "end": 259,
+      "text": "injunctive relief",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 267,
+      "end": 298,
+      "text": "the courts of England and Wales",
+      "labels": [
+        "COURT"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 229,
+  "created_at": "2026-07-27T20:46:14.945045Z",
+  "updated_at": "2026-07-27T20:46:14.945045Z",
+  "lead_time": 160.154
+},
+{
+  "text": "Pursuant to Chapter 11 of Title 11 of the United States Code, Nimbus Airlines Inc. filed a voluntary petition for reorganization in the U.S. Bankruptcy Court for the Southern District of New York on 7 July 2024. The debtor listed total liabilities of USD 3.2 billion against assets of USD 1.9 billion.",
+  "id": 230,
+  "label": [
+    {
+      "start": 12,
+      "end": 60,
+      "text": "Chapter 11 of Title 11 of the United States Code",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 62,
+      "end": 81,
+      "text": "Nimbus Airlines Inc",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 132,
+      "end": 157,
+      "text": "the U.S. Bankruptcy Court",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 199,
+      "end": 210,
+      "text": "7 July 2024",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 212,
+      "end": 222,
+      "text": "The debtor",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 251,
+      "end": 266,
+      "text": "USD 3.2 billion",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 285,
+      "end": 300,
+      "text": "USD 1.9 billion",
+      "labels": [
+        "MONEY"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 230,
+  "created_at": "2026-07-27T20:48:43.565989Z",
+  "updated_at": "2026-07-27T20:48:43.565989Z",
+  "lead_time": 112.846
+},
+{
+  "text": "The Vendor warrants that the goods conform to ISO 9001:2015 and shall indemnify the Purchaser against any claim arising under the Consumer Protection Act 2019 of India. Liability under this clause is capped at 100% of the aggregate fees paid in the preceding twelve months, save for gross negligence or wilful misconduct.",
+  "id": 231,
+  "label": [
+    {
+      "start": 0,
+      "end": 10,
+      "text": "The Vendor",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 80,
+      "end": 93,
+      "text": "the Purchaser",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 126,
+      "end": 158,
+      "text": "the Consumer Protection Act 2019",
+      "labels": [
+        "LAW_STATUTE"
+      ]
+    },
+    {
+      "start": 162,
+      "end": 167,
+      "text": "India",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 245,
+      "end": 272,
+      "text": "the preceding twelve months",
+      "labels": [
+        "DATE"
+      ]
+    },
+    {
+      "start": 283,
+      "end": 299,
+      "text": "gross negligence",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    },
+    {
+      "start": 303,
+      "end": 320,
+      "text": "wilful misconduct",
+      "labels": [
+        "LEGAL_TERM"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 231,
+  "created_at": "2026-07-27T20:52:44.841578Z",
+  "updated_at": "2026-07-27T20:52:44.841578Z",
+  "lead_time": 137.678
+},
+{
+  "text": "On appeal, the Court of Cassation of the Arab Republic of Egypt, in Challenge No. 9823 of Judicial Year 88, overturned the ruling of the Cairo Court of Appeal delivered on 14 October 2022, and remitted the matter for retrial before a differently constituted bench.",
+  "id": 232,
+  "label": [
+    {
+      "start": 11,
+      "end": 63,
+      "text": "the Court of Cassation of the Arab Republic of Egypt",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 68,
+      "end": 106,
+      "text": "Challenge No. 9823 of Judicial Year 88",
+      "labels": [
+        "CASE"
+      ]
+    },
+    {
+      "start": 133,
+      "end": 158,
+      "text": "the Cairo Court of Appeal",
+      "labels": [
+        "COURT"
+      ]
+    },
+    {
+      "start": 172,
+      "end": 187,
+      "text": "14 October 2022",
+      "labels": [
+        "DATE"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 232,
+  "created_at": "2026-07-27T20:54:28.906919Z",
+  "updated_at": "2026-07-27T20:54:28.906919Z",
+  "lead_time": 102.449
+},
+{
+  "text": "The Franchisee agrees to pay an initial franchise fee of USD 35,000 and ongoing royalties of 6% of Gross Sales to the Franchisor, BrewHouse International LLC, headquartered in Toronto, Ontario. The Territory granted is limited to the State of Kuwait for an initial term expiring 31 December 2030.",
+  "id": 233,
+  "label": [
+    {
+      "start": 0,
+      "end": 14,
+      "text": "The Franchisee",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 57,
+      "end": 67,
+      "text": "USD 35,000",
+      "labels": [
+        "MONEY"
+      ]
+    },
+    {
+      "start": 114,
+      "end": 128,
+      "text": "the Franchisor",
+      "labels": [
+        "ROLE"
+      ]
+    },
+    {
+      "start": 130,
+      "end": 157,
+      "text": "BrewHouse International LLC",
+      "labels": [
+        "ORG"
+      ]
+    },
+    {
+      "start": 230,
+      "end": 249,
+      "text": "the State of Kuwait",
+      "labels": [
+        "JURISDICTION"
+      ]
+    },
+    {
+      "start": 279,
+      "end": 295,
+      "text": "31 December 2030",
+      "labels": [
+        "DATE"
+      ]
+    }
+  ],
+  "difficulty": "clear",
+  "annotator": 1,
+  "annotation_id": 233,
+  "created_at": "2026-07-27T20:55:43.819158Z",
+  "updated_at": "2026-07-27T20:55:43.819158Z",
+  "lead_time": 69.837
+}
+]
