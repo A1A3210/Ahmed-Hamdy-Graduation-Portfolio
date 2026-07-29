@@ -10,8 +10,6 @@
 **Tools:** Python 3.12 · Google AI Studio · Label Studio
 **Standards:** ISO 17100 · 18587 · 9001 · EU AI Act · NIST AI RMF 1.0
 
-**Email:** [PLACEHOLDER — أرسل الإيميل] · **LinkedIn:** [Connect](https://www.linkedin.com)
-
 </div>
 
 ---
@@ -20,11 +18,11 @@
 
 - [📊 At a Glance](#-at-a-glance)
 - [👤 About Me](#-about-me)
-- [📖 Repository Overview](#-repository-overview)
+- [🧭 How to Navigate This Repository](#-how-to-navigate-this-repository)
 - [🧭 Frameworks & Standards Applied](#-frameworks--standards-applied)
 - [📂 Portfolio Tasks](#-portfolio-tasks)
 - [🛠️ Tools & Technologies](#️-tools--technologies)
-- [💡 Key Learnings](#-key-learnings)
+- [💡 What This Project Reinforced](#-what-this-project-reinforced)
 - [🗂️ Repository Structure](#️-repository-structure)
 - [📬 Contact](#-contact)
 
@@ -43,23 +41,15 @@
 
 ## 👤 About Me
 
-I'm **Ahmed**, an AI Linguist and legal translation specialist working at the intersection of linguistics and AI engineering. Before this diploma, I built and maintained a proprietary legal-translation quality framework with **90+ documented error categories** — a background that directly shaped how I approached every task in this portfolio: not as isolated exercises, but as an extension of the same discipline of precision, reproducibility, and documented decision-making I already apply professionally.
+I'm **Ahmed Hamdy**, a legal translator working in AI engineering and prompt design. Before this program, I applied my own quality-review process to legal translation work — checking every output against evidence rather than assuming it's correct. This portfolio carries that same habit into five different tasks: designing prompts, building an ISO-aligned translation workflow, cleaning real datasets, running structured annotation, and testing two AI systems for safety risks under the EU AI Act.
 
-This portfolio documents five hands-on capstone tasks, each designed to prove **reproducible, production-ready output** — not theory: prompts that actually work, datasets cleaned with documented decisions, annotations exported in spec-compliant formats, and a safety evaluation that surfaced real, structural weaknesses across two AI systems.
+The results below are documented with specific numbers, not general claims: 21 prompt strategies, each verified against the prompt text itself; two datasets cleaned with every removed row logged and explained; 36 annotation tasks completed with none left blank; and 11 safety findings, traced across two separate test sessions until the same underlying weakness appeared in two unrelated domains.
 
 ---
 
-## 📖 Repository Overview
+## 🧭 How to Navigate This Repository
 
-This repository contains my graduation portfolio for the **AI Linguistics & Prompt Engineering Diploma — Motrjim Academy (2026)**, demonstrating practical, end-to-end application of:
-
-- Prompt Engineering (legal & financial domains)
-- ISO-Compliant Translation Systems
-- Data Cleaning & Preprocessing
-- Dataset Annotation via Label Studio
-- AI Red Teaming & Safety Evaluation (EU AI Act)
-
-Each task folder includes complete documentation, implementation files, actual outputs, and supporting reports — reproducible from scratch, not just described.
+Each task folder is self-contained: open it, and the working artifact (a prompt file, a cleaned dataset, an annotation export, the red-teaming JSON) is what to look at first — the supporting report explains the decisions behind it, not the other way around. The table below links directly to that artifact for each task, so you don't have to dig through folders to find it.
 
 ---
 
@@ -81,7 +71,7 @@ A core differentiator of this portfolio: every task is grounded in a named, veri
 
 ## 📂 Portfolio Tasks
 
-| # | Task | What I Did | Key Result | Folder |
+| # | Task | Approach | Outcome | Folder |
 |---|------|-----------|-------------|--------|
 | 🧩 **01** | **Master Prompt Engineering** | Designed reusable Master Prompts for **legal contract translation** and **financial statement analysis**, applying role/persona, few-shot, chain-of-thought, decomposition, and anti-hallucination strategies. | **21 strategies**, each explicitly mapped to purpose | [`01_master_prompt`](./01_master_prompt/) |
 | 🌐 **02** | **ISO Prompt Lab** | Built an ISO-aligned System Instruction in Google AI Studio for translation — embedding a **mandatory second-linguist review step** (ISO 17100), MTPE handling (ISO 18587), and consistency controls (ISO 9001). Domain-agnostic by design. | Explicit clause-by-clause ISO mapping | [`02_iso_prompt_lab`](./02_iso_prompt_lab/) |
@@ -93,32 +83,25 @@ A core differentiator of this portfolio: every task is grounded in a named, veri
 
 ## 🛠️ Tools & Technologies
 
-**Artificial Intelligence**
-`Prompt Engineering` · `AI Evaluation` · `AI Red Teaming` · `Google AI Studio (Gemini)`
-
-**Programming & Data**
-`Python` · `Pandas` · `Google Colab` · `JSON` · `Microsoft Excel`
-
-**Annotation**
-`Label Studio` · `NER` · `Multi-label Classification`
-
-**Translation & Linguistics**
-`Legal Translation` · `Financial Translation` · `Terminology Management` · `ISO 17100 / 18587 / 9001`
-
-**Documentation & Workflow**
-`Markdown` · `Git` · `GitHub`
+| Category | Tools |
+|---|---|
+| **AI & Prompt Engineering** | Prompt Engineering · AI Evaluation · AI Red Teaming · Google AI Studio (Gemini) |
+| **Programming & Data** | Python · Pandas · Google Colab · JSON · Microsoft Excel |
+| **Annotation** | Label Studio · NER · Multi-label Classification |
+| **Translation & Linguistics** | Legal Translation · Financial Translation · Terminology Management · ISO 17100 / 18587 / 9001 |
+| **Documentation & Workflow** | Markdown · Git · GitHub |
 
 ---
 
-## 💡 Key Learnings
+## 💡 What This Project Reinforced
 
-1. **Quantitative honesty is a discipline, not a formality.** Early drafts of my prompt-strategy table over-counted techniques through double-labeling. Catching and correcting this taught me to verify every claimed capability against actual evidence in the output — not assume it.
+1. **A number is only worth reporting once it's been checked twice.** An early draft of my prompt-strategy table over-counted techniques through double-labeling. Fixing it meant going back and verifying each entry against the actual prompt text — a habit I kept for every count in this portfolio since.
 
-2. **A refusal is only as strong as its understanding of *why*.** During red teaming, one system refused a harmful request cleanly — then reversed itself completely under a six-word rephrasing of the *same* request. That taught me safety behavior built on surface pattern-matching is fragile in a way that's more dangerous than having no refusal at all, because it creates false confidence.
+2. **A refusal means little if it can't survive a second try.** During red teaming, one AI system refused a harmful request cleanly, then reversed itself completely when the same request was rephrased in six words. That's a more concerning failure than no refusal at all, because it looks safe until someone actually tests it.
 
-3. **Reproducibility is the real deliverable, not the output itself.** A clean dataset or a passing prompt means little without the documented decisions behind it (why a row was dropped, why a term was chosen). I treated every "why" as part of the deliverable, not an afterthought.
+3. **The decision behind a result matters as much as the result.** A cleaned dataset or a working prompt says little on its own — I logged why each row was dropped and why each term was chosen, because that's what makes the output checkable by someone other than me.
 
-4. **Cross-domain repetition is stronger evidence than a single finding.** The same two failure patterns (oversight bypass, identity-based bias) surfaced independently in a financial scenario and a medical scenario. That cross-domain repetition — not any single finding — is what makes a red-teaming report credible rather than anecdotal.
+4. **One finding is an anecdote; the same finding twice is a pattern.** The same two failures — bypassing human oversight, normalizing identity-based bias — showed up independently in a financial scenario and a medical one. That repetition across unrelated domains is what made the red-teaming report worth trusting.
 
 ---
 
@@ -141,15 +124,18 @@ ai-linguistics-graduation-portfolio/
 
 ## 📬 Contact
 
-- 📧 **Email:** [PLACEHOLDER — أرسل الإيميل]
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com)
+- 📧 **Email:** [ahmed.hamdy.m111@gmail.com]
+  
 
 ---
 
 <div align="center">
 
-*Artificial intelligence becomes trustworthy only when paired with linguistic precision, documented reasoning, and rigorous evaluation.*
+✦ ✦ ✦
 
-**Motrjim Academy — AI Linguistics & Prompt Engineering Diploma · Graduation Capstone 2026**
+*The same weakness showing up twice, in two unrelated domains, is what separates a red-teaming finding from a coincidence — that's the standard applied throughout this portfolio.*
+
+**Motrjim Academy**
+AI Linguistics & Prompt Engineering Diploma · Graduation Capstone 2026
 
 </div>
