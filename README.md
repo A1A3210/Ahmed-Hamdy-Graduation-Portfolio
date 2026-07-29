@@ -1,8 +1,6 @@
 # Ahmed-Hamdy / Graduation-Portfolio
 <div align="center">
 
-# 🧠 AI Linguistics & Prompt Engineering Portfolio
-
 ### Graduation Capstone — Motrjim Academy | AI Linguistics & Prompt Engineering Diploma
 
 **Where linguistic precision meets AI engineering** — five applied tasks spanning prompt engineering, ISO-compliant translation systems, data cleaning, dataset annotation, and AI safety evaluation under the EU AI Act.
